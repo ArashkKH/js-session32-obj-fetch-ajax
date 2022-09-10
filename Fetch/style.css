@@ -1,0 +1,53 @@
+li {
+  list-style-type: none;
+}
+
+a {
+  color: inherit;
+}
+
+*, *::after, *::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-size: 16px;
+}
+@media only screen and (max-width: 1220px) {
+  :root {
+    font-size: 14px;
+  }
+}
+@media only screen and (max-width: 1080px) {
+  :root {
+    font-size: 12px;
+  }
+}
+@media only screen and (max-width: 940px) {
+  :root {
+    font-size: 10px;
+  }
+}
+@media only screen and (max-width: 680px) {
+  :root {
+    font-size: 8px;
+  }
+}
+
+main {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  background: rgb(0, 52, 119);
+  color: white;
+  flex-direction: column;
+  cursor: default;
+}
+main h1 {
+  font-size: 4rem;
+}/*# sourceMappingURL=style.css.map */

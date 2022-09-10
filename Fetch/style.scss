@@ -1,0 +1,55 @@
+li{
+    list-style-type: none;
+}
+
+a{
+    color: inherit;
+}
+
+*,*::after,*::before{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    font-size: 16px; //defualt
+
+    @media only screen and (max-width:1220px) {
+        font-size: 14px;
+    }
+
+    @media only screen and (max-width:1080px) {
+        font-size: 12px;
+    }
+
+    @media only screen and (max-width:940px) {
+        font-size: 10px;
+    }
+
+    @media only screen and (max-width:680px) {
+        font-size: 8px;
+    }
+}
+
+@mixin fcenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+//-------------------------------------//
+
+main{
+    width: 100%;
+    height: 100vh;
+    @include fcenter();
+    font-size: 3rem;
+    background: rgb(0, 52, 119);
+    color: white;
+    flex-direction: column;
+    cursor: default;
+    h1{
+        font-size: 4rem;
+    }
+}

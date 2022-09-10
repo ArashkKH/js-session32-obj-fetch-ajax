@@ -1,0 +1,24 @@
+li {
+  list-style-type: none;
+}
+
+a {
+  color: inherit;
+}
+
+*, *::after, *::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-size: 16px;
+}
+
+#header {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%);
+}/*# sourceMappingURL=style.css.map */

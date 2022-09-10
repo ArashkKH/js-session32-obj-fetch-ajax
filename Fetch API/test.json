@@ -1,0 +1,77 @@
+[{
+    "id": 1684,
+    "uid": "951b08e0-10c5-49de-b42f-b549e2be94ca",
+    "password": "pXwQo0m7zW",
+    "first_name": "Darron",
+    "last_name": "Denesik",
+    "username": "darron.denesik",
+    "email": "darron.denesik@email.com",
+    "avatar": "https://robohash.org/eaeaquemolestias.png?size=300x300\u0026set=set1",
+    "gender": "Agender",
+    "phone_number": "+1 (356) 765-9129 x043",
+    "social_insurance_number": "737066365",
+    "date_of_birth": "1964-07-24",
+    "employment": {
+        "title": "Product Administration Facilitator",
+        "key_skill": "Leadership"
+    },
+    "address": {
+        "city": "Port Na",
+        "street_name": "Schmitt Centers",
+        "street_address": "209 Leandro Haven",
+        "zip_code": "74979-7682",
+        "state": "Florida",
+        "country": "United States",
+        "coordinates": {
+            "lat": -89.55201929501739,
+            "lng": 136.258555774856
+        }
+    },
+    "credit_card": {
+        "cc_number": "6771-8918-5805-8098"
+    },
+    "subscription": {
+        "plan": "Gold",
+        "status": "Blocked",
+        "payment_method": "Money transfer",
+        "term": "Full subscription"
+    }
+}, {
+    "id": 3518,
+    "uid": "b4586553-5cb0-4014-967a-c420cd30a3a9",
+    "password": "m2eDTA865L",
+    "first_name": "John",
+    "last_name": "Trantow",
+    "username": "john.trantow",
+    "email": "john.trantow@email.com",
+    "avatar": "https://robohash.org/idetrepellendus.png?size=300x300\u0026set=set1",
+    "gender": "Bigender",
+    "phone_number": "+964 637-994-8805 x156",
+    "social_insurance_number": "430026039",
+    "date_of_birth": "1989-11-17",
+    "employment": {
+        "title": "Sales Agent",
+        "key_skill": "Fast learner"
+    },
+    "address": {
+        "city": "Farrellton",
+        "street_name": "Boehm Passage",
+        "street_address": "83269 Georgene Turnpike",
+        "zip_code": "72626",
+        "state": "South Carolina",
+        "country": "United States",
+        "coordinates": {
+            "lat": -48.79140723202304,
+            "lng": -118.71995573077098
+        }
+    },
+    "credit_card": {
+        "cc_number": "4375097297875"
+    },
+    "subscription": {
+        "plan": "Platinum",
+        "status": "Idle",
+        "payment_method": "Cash",
+        "term": "Monthly"
+    }
+}]
